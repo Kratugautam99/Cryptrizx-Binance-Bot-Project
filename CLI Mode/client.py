@@ -56,14 +56,15 @@ class BinanceBotClient:
             print(f"   - Side: {order['side']}")
             print(f"   - Quantity: {order['origQty']}")
             print(f"   - Status: {order['status']}")
-            return order
+            return order, None
         except BinanceAPIException as e:
             self.logger.error(f"API Error placing order: {e.status_code} - {e.message}")
             print(f"\n❌ Error placing order: {e.message}")
+            return None, f"❌ Error placing order: {e.message}"
         except Exception as e:
             self.logger.error(f"An unexpected error occurred: {e}")
             print(f"\n❌ An unexpected error occurred: {e}")
-        return None
+            return None, f"❌ An unexpected error occurred: {e}"
 
     def place_batch_order(self, batch_orders):
         """Places a batch of orders (e.g., for OCO) and handles API responses."""
@@ -84,14 +85,15 @@ class BinanceBotClient:
                     print(f"\n--- Sub-Order {i+1} Failed ---")
                     print(f"   - Code: {order.get('code')}")
                     print(f"   - Message: {order.get('msg')}")
-            return order_responses
+            return order_responses, None
         except BinanceAPIException as e:
             self.logger.error(f"API Error placing batch order: {e.status_code} - {e.message}")
             print(f"\n❌ Error placing batch order: {e.message}")
+            return None, f"❌ Error placing order: {e.message}"
         except Exception as e:
             self.logger.error(f"An unexpected error occurred during batch order: {e}")
             print(f"\n❌ An unexpected error occurred: {e}")
-        return None    
+            return None, f"❌ An unexpected error occurred: {e}"
 
     def get_current_price(self, symbol):
         """Fetches the last traded price for a given symbol."""

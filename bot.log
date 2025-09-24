@@ -104,3 +104,127 @@
 2025-09-24 22:36:49,587 - INFO - Successfully connected to Binance API.
 2025-09-24 22:36:55,165 - INFO - Successfully connected to Binance API.
 2025-09-24 22:36:55,907 - INFO - Successfully connected to Binance API.
+2025-09-24 23:25:54,446 - INFO - Successfully connected to Binance API.
+2025-09-24 23:25:54,459 - INFO - Successfully connected to Binance API.
+2025-09-24 23:25:55,266 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:02,476 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:06,395 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:18,148 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:18,334 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:18,341 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.0}
+2025-09-24 23:26:19,206 - ERROR - API Error placing order: 400 - Quantity less than or equal to zero.
+2025-09-24 23:26:49,311 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:49,315 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-09-24 23:26:49,515 - INFO - Successfully connected to Binance API.
+2025-09-24 23:26:49,966 - INFO - Successfully placed order.
+2025-09-24 23:26:49,968 - INFO - API Response: {'orderId': 5678430615, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'gvqDbwkp1p4Cywt9LRyUAx', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758736610657}
+2025-09-24 23:31:21,901 - INFO - Successfully connected to Binance API.
+2025-09-25 00:59:15,813 - INFO - Successfully connected to Binance API.
+2025-09-25 00:59:15,815 - INFO - Successfully connected to Binance API.
+2025-09-25 00:59:16,687 - INFO - Successfully connected to Binance API.
+2025-09-25 00:59:26,915 - INFO - Successfully connected to Binance API.
+2025-09-25 01:00:31,199 - INFO - Successfully connected to Binance API.
+2025-09-25 01:00:42,702 - INFO - Successfully connected to Binance API.
+2025-09-25 01:01:10,660 - INFO - Successfully connected to Binance API.
+2025-09-25 01:01:26,801 - INFO - Successfully connected to Binance API.
+2025-09-25 01:01:42,121 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:39,876 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:46,444 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:47,514 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:48,529 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:49,804 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:50,220 - INFO - Successfully connected to Binance API.
+2025-09-25 01:03:50,566 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:11,874 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:37,828 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:38,535 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:39,085 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:41,922 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:43,111 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:43,297 - INFO - Successfully connected to Binance API.
+2025-09-25 01:08:43,475 - INFO - Successfully connected to Binance API.
+2025-09-25 01:10:23,804 - INFO - Successfully connected to Binance API.
+2025-09-25 01:11:02,897 - INFO - Successfully connected to Binance API.
+2025-09-25 01:11:46,240 - INFO - Successfully connected to Binance API.
+2025-09-25 01:12:58,349 - INFO - Successfully connected to Binance API.
+2025-09-25 01:13:25,952 - INFO - Successfully connected to Binance API.
+2025-09-25 01:18:38,868 - INFO - Successfully connected to Binance API.
+2025-09-25 01:19:35,691 - INFO - Successfully connected to Binance API.
+2025-09-25 01:20:51,439 - INFO - Successfully connected to Binance API.
+2025-09-25 01:21:37,048 - INFO - Successfully connected to Binance API.
+2025-09-25 01:22:39,165 - INFO - Successfully connected to Binance API.
+2025-09-25 01:23:06,481 - INFO - Successfully connected to Binance API.
+2025-09-25 01:27:03,127 - INFO - Successfully connected to Binance API.
+2025-09-25 01:27:31,925 - INFO - Successfully connected to Binance API.
+2025-09-25 01:27:47,155 - INFO - Successfully connected to Binance API.
+2025-09-25 01:30:22,199 - INFO - Successfully connected to Binance API.
+2025-09-25 01:31:05,800 - INFO - Successfully connected to Binance API.
+2025-09-25 01:36:12,373 - INFO - Successfully connected to Binance API.
+2025-09-25 01:37:11,562 - INFO - Successfully connected to Binance API.
+2025-09-25 01:42:48,966 - INFO - Successfully connected to Binance API.
+2025-09-25 01:42:48,998 - INFO - Successfully connected to Binance API.
+2025-09-25 01:42:49,783 - INFO - Successfully connected to Binance API.
+2025-09-25 01:42:54,941 - INFO - Successfully connected to Binance API.
+2025-09-25 01:43:02,516 - INFO - Successfully connected to Binance API.
+2025-09-25 01:45:19,928 - INFO - Successfully connected to Binance API.
+2025-09-25 01:45:21,151 - INFO - Successfully connected to Binance API.
+2025-09-25 01:45:21,923 - INFO - Successfully connected to Binance API.
+2025-09-25 01:45:25,658 - INFO - Successfully connected to Binance API.
+2025-09-25 01:46:07,053 - INFO - Successfully connected to Binance API.
+2025-09-25 01:47:53,079 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:08,862 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:09,936 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:12,690 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:14,466 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:20,914 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:21,047 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:24,322 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:37,993 - INFO - Successfully connected to Binance API.
+2025-09-25 01:48:55,235 - INFO - Successfully connected to Binance API.
+2025-09-25 01:49:04,831 - INFO - Successfully connected to Binance API.
+2025-09-25 01:49:11,849 - INFO - Successfully connected to Binance API.
+2025-09-25 01:49:11,890 - INFO - Successfully connected to Binance API.
+2025-09-25 01:49:12,515 - INFO - Current price for BTCUSDT is 113470.0
+2025-09-25 01:49:12,515 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.001', 'price': '111111.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.001', 'price': '222222.00'}]
+2025-09-25 01:49:12,660 - INFO - Successfully placed batch order.
+2025-09-25 01:49:12,661 - INFO - API Response: [{'orderId': 5678532551, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '1qm3C2v3mzGbvJzUUVzYVY', 'price': '111111.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745153429}, {'orderId': 5678532552, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'y25WfsVNBws8doWun22Cxg', 'price': '222222.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745153429}]
+2025-09-25 01:52:11,283 - INFO - Successfully connected to Binance API.
+2025-09-25 01:52:15,211 - INFO - Successfully connected to Binance API.
+2025-09-25 01:52:16,032 - INFO - Current price for BTCUSDT is 113520.1
+2025-09-25 01:52:16,033 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.001', 'price': '111111.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.001', 'price': '222222.00'}]
+2025-09-25 01:52:16,184 - INFO - Successfully placed batch order.
+2025-09-25 01:52:16,185 - INFO - API Response: [{'orderId': 5678534637, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'KwUGbAXBGB8fWeGi8FeSyX', 'price': '111111.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745336953}, {'orderId': 5678534636, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'sLXg3FpFNVYuNqmhfStJ2B', 'price': '222222.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745336953}]
+2025-09-25 01:53:44,913 - INFO - Successfully connected to Binance API.
+2025-09-25 01:56:42,399 - INFO - Successfully connected to Binance API.
+2025-09-25 01:57:45,519 - INFO - Successfully connected to Binance API.
+2025-09-25 01:58:10,655 - INFO - Successfully connected to Binance API.
+2025-09-25 01:58:35,521 - INFO - Successfully connected to Binance API.
+2025-09-25 01:58:45,208 - INFO - Successfully connected to Binance API.
+2025-09-25 01:58:47,590 - INFO - Successfully connected to Binance API.
+2025-09-25 01:58:53,070 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:25,763 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:25,879 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:30,123 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:36,820 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:40,420 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:40,499 - INFO - Successfully connected to Binance API.
+2025-09-25 01:59:40,505 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TAKE_PROFIT_MARKET', 'quantity': '0.001', 'stopPrice': '1.0', 'reduceOnly': 'true'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP_MARKET', 'quantity': '0.001', 'stopPrice': '1.0', 'reduceOnly': 'true'}]
+2025-09-25 01:59:41,084 - INFO - Successfully placed batch order.
+2025-09-25 01:59:41,085 - INFO - API Response: [{'code': -4013, 'msg': 'Price less than min price.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-09-25 01:59:55,546 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:00,456 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:00,773 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:00,777 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TAKE_PROFIT_MARKET', 'quantity': '0.001', 'stopPrice': '100.0', 'reduceOnly': 'true'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP_MARKET', 'quantity': '0.001', 'stopPrice': '160.0', 'reduceOnly': 'true'}]
+2025-09-25 02:00:01,345 - INFO - Successfully placed batch order.
+2025-09-25 02:00:01,345 - INFO - API Response: [{'code': -4013, 'msg': 'Price less than min price.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-09-25 02:00:10,128 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:13,821 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:13,876 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:13,883 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TAKE_PROFIT_MARKET', 'quantity': '0.001', 'stopPrice': '10000.0', 'reduceOnly': 'true'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP_MARKET', 'quantity': '0.001', 'stopPrice': '16000.0', 'reduceOnly': 'true'}]
+2025-09-25 02:00:14,482 - INFO - Successfully placed batch order.
+2025-09-25 02:00:14,482 - INFO - API Response: [{'code': -2021, 'msg': 'Order would immediately trigger.'}, {'orderId': 5678539102, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '704QKRI5EAqKYJZxSIYE5d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': True, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '16000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745815254}]
+2025-09-25 02:00:42,337 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:43,826 - INFO - Successfully connected to Binance API.
+2025-09-25 02:00:43,830 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'TAKE_PROFIT_MARKET', 'quantity': '0.001', 'stopPrice': '200000.0', 'reduceOnly': 'true'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP_MARKET', 'quantity': '0.001', 'stopPrice': '16000.0', 'reduceOnly': 'true'}]
+2025-09-25 02:00:44,388 - INFO - Successfully placed batch order.
+2025-09-25 02:00:44,388 - INFO - API Response: [{'orderId': 5678539363, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': '0nSLfRn4qQIbmAuwwnCoyF', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'TAKE_PROFIT_MARKET', 'reduceOnly': True, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '200000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'TAKE_PROFIT_MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745845162}, {'orderId': 5678539362, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'MzV7bsBlyeUVLI6zbKdYDM', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'STOP_MARKET', 'reduceOnly': True, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '16000.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'STOP_MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758745845162}]
