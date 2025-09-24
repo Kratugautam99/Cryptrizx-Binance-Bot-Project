@@ -1,4 +1,4 @@
-from backend.client import BinanceBotClient
+from ..client import BinanceBotClient
 import math
 
 def get_user_input():

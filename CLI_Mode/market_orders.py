@@ -1,4 +1,4 @@
-from backend.client import BinanceBotClient
+from client import BinanceBotClient
 
 def get_user_input():
     """Gets and validates user input for a market order."""

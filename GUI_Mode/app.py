@@ -4,7 +4,7 @@ import sys
 import os
 
 # --- Add backend path ---
-BACKEND_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "CLI Mode"))
+BACKEND_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "CLI_Mode"))
 if BACKEND_DIR not in sys.path:
     sys.path.insert(0, BACKEND_DIR)
 from client import BinanceBotClient
