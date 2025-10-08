@@ -353,3 +353,33 @@
 2025-10-08 11:03:51,939 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '100000.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '150000.00'}]
 2025-10-08 11:03:52,089 - INFO - Successfully placed batch order.
 2025-10-08 11:03:52,090 - INFO - API Response: [{'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}, {'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}]
+2025-10-08 11:49:55,896 - INFO - Successfully connected to Binance API.
+2025-10-08 11:49:55,926 - INFO - Successfully connected to Binance API.
+2025-10-08 11:49:56,677 - INFO - Successfully connected to Binance API.
+2025-10-08 11:50:05,368 - INFO - Successfully connected to Binance API.
+2025-10-08 11:50:05,406 - INFO - Successfully connected to Binance API.
+2025-10-08 11:50:08,180 - INFO - Successfully connected to Binance API.
+2025-10-08 11:50:08,237 - INFO - Successfully connected to Binance API.
+2025-10-08 11:50:08,246 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 11:50:08,808 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 11:51:22,291 - INFO - Successfully connected to Binance API.
+2025-10-08 11:51:22,300 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 11:51:22,913 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 11:51:24,892 - INFO - Successfully connected to Binance API.
+2025-10-08 11:51:24,895 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 11:51:25,497 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 11:51:27,087 - INFO - Successfully connected to Binance API.
+2025-10-08 11:51:27,094 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 11:51:27,690 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 11:57:19,424 - INFO - Successfully connected to Binance API.
+2025-10-08 11:57:19,425 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 11:57:20,074 - ERROR - API Error placing order: 401 - API-key format invalid.
+2025-10-08 11:58:04,657 - INFO - Successfully connected to Binance API.
+2025-10-08 11:58:04,658 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 11:58:05,304 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 12:00:42,068 - INFO - Successfully connected to Binance API.
+2025-10-08 12:00:42,068 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 12:00:42,717 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 12:19:42,306 - INFO - Successfully connected to Binance API.
+2025-10-08 12:19:42,308 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 12:19:42,893 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
