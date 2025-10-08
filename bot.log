@@ -235,3 +235,121 @@
 2025-09-25 02:05:34,469 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': 0.001, 'price': 111111.0}
 2025-09-25 02:05:35,002 - INFO - Successfully placed order.
 2025-09-25 02:05:35,002 - INFO - API Response: {'orderId': 5678542254, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'WHKPqUfiDQcOISLyVmVuZF', 'price': '111111.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1758746135778}
+2025-10-08 10:09:33,398 - INFO - Successfully connected to Binance API.
+2025-10-08 10:09:34,290 - INFO - Successfully connected to Binance API.
+2025-10-08 10:09:34,439 - INFO - Successfully connected to Binance API.
+2025-10-08 10:09:48,838 - INFO - Successfully connected to Binance API.
+2025-10-08 10:09:51,378 - INFO - Successfully connected to Binance API.
+2025-10-08 10:09:51,431 - INFO - Successfully connected to Binance API.
+2025-10-08 10:09:51,440 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 10:09:52,078 - ERROR - API Error placing order: 401 - API-key format invalid.
+2025-10-08 10:10:20,686 - INFO - Successfully connected to Binance API.
+2025-10-08 10:10:20,725 - INFO - Successfully connected to Binance API.
+2025-10-08 10:10:20,736 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2025-10-08 10:10:21,395 - ERROR - API Error placing order: 401 - API-key format invalid.
+2025-10-08 10:10:51,062 - INFO - Successfully connected to Binance API.
+2025-10-08 10:11:06,370 - INFO - Successfully connected to Binance API.
+2025-10-08 10:11:06,409 - INFO - Successfully connected to Binance API.
+2025-10-08 10:11:07,228 - INFO - Successfully connected to Binance API.
+2025-10-08 10:11:13,374 - INFO - Successfully connected to Binance API.
+2025-10-08 10:11:13,413 - INFO - Successfully connected to Binance API.
+2025-10-08 10:11:13,418 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 10:11:14,015 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 10:23:03,322 - INFO - Successfully connected to Binance API.
+2025-10-08 10:23:05,801 - INFO - Successfully connected to Binance API.
+2025-10-08 10:23:05,805 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.001}
+2025-10-08 10:23:06,503 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-10-08 10:25:36,817 - INFO - Successfully connected to Binance API.
+2025-10-08 10:25:40,793 - INFO - Successfully connected to Binance API.
+2025-10-08 10:25:41,863 - INFO - Successfully connected to Binance API.
+2025-10-08 10:25:44,453 - INFO - Successfully connected to Binance API.
+2025-10-08 10:25:45,557 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:03,037 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:03,073 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:03,687 - INFO - Current price for BTCUSDT is 121739.1
+2025-10-08 10:26:03,688 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.01'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.02'}]
+2025-10-08 10:26:03,830 - INFO - Successfully placed batch order.
+2025-10-08 10:26:03,831 - INFO - API Response: [{'code': -4013, 'msg': 'Price less than min price.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-10-08 10:26:10,794 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:12,158 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:13,144 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:18,322 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:18,951 - INFO - Current price for BTCUSDT is 121763.9
+2025-10-08 10:26:18,952 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.00'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.02'}]
+2025-10-08 10:26:19,095 - INFO - Successfully placed batch order.
+2025-10-08 10:26:19,096 - INFO - API Response: [{'code': -4001, 'msg': 'Price less than 0.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-10-08 10:26:25,479 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:27,933 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:28,521 - INFO - Current price for BTCUSDT is 121765.2
+2025-10-08 10:26:28,522 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.01'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.02'}]
+2025-10-08 10:26:28,668 - INFO - Successfully placed batch order.
+2025-10-08 10:26:28,669 - INFO - API Response: [{'code': -4013, 'msg': 'Price less than min price.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-10-08 10:26:47,083 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:48,632 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:52,649 - INFO - Successfully connected to Binance API.
+2025-10-08 10:26:53,556 - INFO - Current price for BTCUSDT is 121765.7
+2025-10-08 10:26:53,556 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.02'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.03'}]
+2025-10-08 10:26:53,965 - INFO - Successfully placed batch order.
+2025-10-08 10:26:53,966 - INFO - API Response: [{'code': -4013, 'msg': 'Price less than min price.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-10-08 10:27:03,611 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:03,732 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:03,784 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:03,902 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:03,903 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:06,012 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:06,048 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:06,099 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:06,150 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:09,349 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:09,459 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:09,585 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:24,305 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:31,144 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:34,898 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:40,566 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:40,634 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:41,321 - INFO - Current price for BTCUSDT is 121782.0
+2025-10-08 10:27:41,322 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.05'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.06'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.07'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.08'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.09'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.10'}]
+2025-10-08 10:27:41,478 - ERROR - API Error placing batch order: 400 - Invalid number of batch orders: 6
+2025-10-08 10:27:47,955 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:50,420 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:50,817 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:53,857 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:53,947 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:54,076 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:54,143 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:54,145 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:54,250 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:54,253 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:56,123 - INFO - Successfully connected to Binance API.
+2025-10-08 10:27:56,840 - INFO - Current price for BTCUSDT is 121811.7
+2025-10-08 10:27:56,840 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.05'}, {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '0.10'}]
+2025-10-08 10:27:56,986 - INFO - Successfully placed batch order.
+2025-10-08 10:27:56,986 - INFO - API Response: [{'code': -4013, 'msg': 'Price less than min price.'}, {'code': -4013, 'msg': 'Price less than min price.'}]
+2025-10-08 10:29:34,970 - INFO - Successfully connected to Binance API.
+2025-10-08 10:29:44,327 - INFO - Successfully connected to Binance API.
+2025-10-08 10:29:46,579 - INFO - Successfully connected to Binance API.
+2025-10-08 10:29:47,228 - INFO - Current price for BTCUSDT is 121854.5
+2025-10-08 10:29:47,228 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '100000.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '150000.00'}]
+2025-10-08 10:29:47,377 - INFO - Successfully placed batch order.
+2025-10-08 10:29:47,378 - INFO - API Response: [{'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}, {'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}]
+2025-10-08 10:45:33,471 - INFO - Successfully connected to Binance API.
+2025-10-08 10:45:34,222 - INFO - Current price for BTCUSDT is 121741.9
+2025-10-08 10:45:34,222 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '100000.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '150000.00'}]
+2025-10-08 10:45:34,371 - INFO - Successfully placed batch order.
+2025-10-08 10:45:34,371 - INFO - API Response: [{'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}, {'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}]
+2025-10-08 11:03:39,173 - INFO - Successfully connected to Binance API.
+2025-10-08 11:03:40,361 - INFO - Current price for BTCUSDT is 121482.0
+2025-10-08 11:03:40,362 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '100000.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '150000.00'}]
+2025-10-08 11:03:40,507 - INFO - Successfully placed batch order.
+2025-10-08 11:03:40,508 - INFO - API Response: [{'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}, {'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}]
+2025-10-08 11:03:43,762 - INFO - Successfully connected to Binance API.
+2025-10-08 11:03:44,426 - INFO - Current price for BTCUSDT is 121480.8
+2025-10-08 11:03:44,426 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '100000.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '150000.00'}]
+2025-10-08 11:03:44,574 - INFO - Successfully placed batch order.
+2025-10-08 11:03:44,575 - INFO - API Response: [{'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}, {'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}]
+2025-10-08 11:03:51,234 - INFO - Successfully connected to Binance API.
+2025-10-08 11:03:51,939 - INFO - Current price for BTCUSDT is 121450.0
+2025-10-08 11:03:51,939 - INFO - Placing batch order with details: [{'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '100000.00'}, {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': '0.01', 'price': '150000.00'}]
+2025-10-08 11:03:52,089 - INFO - Successfully placed batch order.
+2025-10-08 11:03:52,090 - INFO - API Response: [{'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}, {'code': -1000, 'msg': 'An unknown error occurred while processing the request.'}]
