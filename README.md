@@ -5,9 +5,11 @@
 </p>
 
 
+
 **Cryptrizx-Binance-Bot** is a Python-based trading bot for the **Binance Exchange**, offering both **CLI (Command-Line Interface)** and **GUI (Streamlit Web App)** modes. It empowers traders to automate strategies ranging from simple market/limit orders to advanced executions like OCO, Grid, Stop-Limit, and TWAP.
 
-🚀 **Live Demo (GUI Mode):** https://kratugautam-cryptrizx-binance-bot-project.streamlit.app
+---
+🚀 **Docker Container Link:** https://hub.docker.com/r/kratuzen/cryptrizx-binance-bot
 
 ---
 
@@ -15,17 +17,48 @@
 
 | Section | Description |
 |---------|-------------|
+| [🔑 API Credentials](#-api-credentials) | API Key and Secret for Application |
 | [⚡ Features](#-features) | Overview of bot capabilities |
 | [📦 Installation](#-installation--setup) | Setup and configuration guide |
-| [🖥️ CLI Mode](#-cli-mode-usage) | Command-line interface usage |
+| [🖥️ CLI Mode](#-cli) | Command-line interface usage |
 | [🌐 GUI Mode](#-gui-mode-usage) | Web interface usage |
-| [🏗️ Project Structure](#-project-structure) | Directory organization |
-| [🛠️ Tech Stack](#-tech-stack) | Technologies used |
+| [🏗️ Project Structure](#-proj) | Directory organization |
+| [🛠️ Tech Stack](#-tech) | Technologies used |
 | [🤝 Contributing](#-contributing) | How to contribute |
 | [📄 License](#-license) | License information |
 
 ---
+## 🔑 API Credentials
 
+To connect the bot with **Binance Futures Testnet**, you need to provide your **API Key** and **Secret Key**.
+
+### Where to Get Them
+1. Log in to [Binance Futures Testnet](https://testnet.binancefuture.com).
+2. Go to the **API Key** tab (below the trading chart).
+3. Click **Generate API Key**.
+4. Copy both the **API Key** and **Secret Key** (the secret is shown only once).
+
+### How They’re Used
+- **API Key** → Identifies your Testnet account.
+- **Secret Key** → Signs requests so Binance knows they’re really from you.
+- Together, they allow the bot to:
+  - Place and cancel orders
+  - Check balances and margin
+  - Fetch account and position data
+
+### Important Notes
+- These keys are **Testnet‑only**. They will not affect your real Binance account or funds.
+- Keep them **private** — never commit them to GitHub or share them publicly.
+- Store them in a `.env` file or set them as environment variables when running Docker.
+- If you suspect your keys are compromised, delete them in the Testnet dashboard and generate new ones.
+
+### Example `.env` File
+```env
+BINANCE_API_KEY=your_testnet_api_key_here
+BINANCE_API_SECRET=your_testnet_secret_here
+```
+
+---
 ## ⚡ Features
 
 ### 🤖 **Trading Strategies**
@@ -87,7 +120,7 @@ BINANCE_API_SECRET=your_actual_api_secret_here
 ```
 
 ---
-
+<a id = "-cli"></a>
 ## 🖥️ CLI Mode Usage
 
 Execute trading strategies directly from terminal:
@@ -116,11 +149,11 @@ streamlit run GUI_Mode/app.py
 ```
 
 ### Cloud Deployment
-Access the live version:  
-👉 [Cryptrizx-Binance-Bot Streamlit App](https://kratugautam-cryptrizx-binance-bot-project.streamlit.app/)
+Access the docker container:  
+👉 [Cryptrizx-Binance-Bot App](https://hub.docker.com/r/kratuzen/cryptrizx-binance-bot)
 
 ---
-
+<a id="-proj"></a>
 ## 🏗️ Project Structure
 
 ```
@@ -158,7 +191,7 @@ tail -f bot.log  # Monitor logs in real-time
 ```
 
 ---
-
+<a id="-tech"></a>
 ## 🛠️ Tech Stack
 
 - **Python 3.10+** - Core programming language
@@ -214,6 +247,6 @@ If this project helps you in your trading journey, please consider:
 
 **🔥 Happy Trading with Cryptrizx-Binance-Bot! 🔥**
 
-*Automate with confidence, trade with precision*
+*Automate with confidence, trade with precision, true creation of Kratu Gautam*
 
 </div>
