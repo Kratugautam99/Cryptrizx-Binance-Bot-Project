@@ -383,3 +383,37 @@
 2025-10-08 12:19:42,306 - INFO - Successfully connected to Binance API.
 2025-10-08 12:19:42,308 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
 2025-10-08 12:19:42,893 - ERROR - API Error placing order: 500 - An unknown error occurred while processing the request.
+2025-11-21 03:57:30,011 - INFO - Successfully connected to Binance API.
+2025-11-21 03:57:41,984 - INFO - Successfully connected to Binance API.
+2025-11-21 03:57:42,740 - INFO - Successfully connected to Binance API.
+2025-11-21 03:57:59,279 - INFO - Successfully connected to Binance API.
+2025-11-21 03:58:03,042 - INFO - Successfully connected to Binance API.
+2025-11-21 03:58:04,976 - INFO - Successfully connected to Binance API.
+2025-11-21 03:58:04,979 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2025-11-21 03:58:05,582 - ERROR - API Error placing order: 400 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-21 03:58:26,544 - INFO - Successfully connected to Binance API.
+2025-11-21 03:58:26,644 - INFO - Successfully connected to Binance API.
+2025-11-21 03:58:26,648 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2025-11-21 03:58:29,232 - ERROR - API Error placing order: 408 - Timeout waiting for response from backend server. Send status unknown; execution status unknown.
+2025-11-21 03:59:32,292 - INFO - Successfully connected to Binance API.
+2025-11-21 03:59:35,345 - INFO - Successfully connected to Binance API.
+2025-11-21 03:59:35,349 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2025-11-21 03:59:36,476 - INFO - Successfully connected to Binance API.
+2025-11-21 03:59:36,482 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2025-11-21 03:59:38,019 - ERROR - API Error placing order: 408 - Timeout waiting for response from backend server. Send status unknown; execution status unknown.
+2025-11-21 03:59:39,044 - ERROR - API Error placing order: 408 - Timeout waiting for response from backend server. Send status unknown; execution status unknown.
+2025-11-21 04:10:21,874 - INFO - Successfully connected to Binance API.
+2025-11-21 04:10:21,884 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.0}
+2025-11-21 04:10:22,477 - ERROR - API Error placing order: 400 - Quantity less than or equal to zero.
+2025-11-21 04:10:31,947 - INFO - Successfully connected to Binance API.
+2025-11-21 04:10:34,063 - INFO - Successfully connected to Binance API.
+2025-11-21 04:10:34,066 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2025-11-21 04:10:36,673 - ERROR - API Error placing order: 408 - Timeout waiting for response from backend server. Send status unknown; execution status unknown.
+2025-11-21 04:19:16,128 - INFO - Successfully connected to Binance API.
+2025-11-21 04:19:50,870 - INFO - Successfully connected to Binance API.
+2025-11-21 04:19:51,635 - INFO - Successfully connected to Binance API.
+2025-11-21 04:20:05,223 - INFO - Successfully connected to Binance API.
+2025-11-21 04:20:07,740 - INFO - Successfully connected to Binance API.
+2025-11-21 04:20:07,806 - INFO - Successfully connected to Binance API.
+2025-11-21 04:20:07,813 - INFO - Placing order with details: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2025-11-21 04:20:10,446 - ERROR - API Error placing order: 408 - Timeout waiting for response from backend server. Send status unknown; execution status unknown.

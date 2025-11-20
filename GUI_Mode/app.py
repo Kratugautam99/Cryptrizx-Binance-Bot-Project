@@ -258,7 +258,7 @@ if order_type == "🏬 Market Order":
     st.subheader("Market Order")
     symbol = st.text_input("Symbol (e.g., BTCUSDT)")
     side = st.radio("Side", ["BUY", "SELL"])
-    quantity = st.number_input("Quantity", min_value=0.0, format="%.3f")
+    quantity = st.number_input("Quantity", min_value=0.0, format="%.2f")
     if st.button("Place Market Order"):
         order_details = {'symbol': symbol, 'side': side, 'type': 'MARKET', 'quantity': quantity}
         resp, error = bot.place_order(order_details)
