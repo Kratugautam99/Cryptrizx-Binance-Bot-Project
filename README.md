@@ -96,8 +96,7 @@ cd Cryptrizx-Binance-Bot-Project
 ### 2. Environment Setup
 **Using Conda:**
 ```bash
-conda create -n cryptrizx python=3.10
-conda activate cryptrizx
+conda env create -f environment.yml   
 ```
 
 **Using Venv:**
@@ -107,7 +106,7 @@ source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
 
-### 3. Install Dependencies
+### 3. Install Dependencies (If Venv Path)
 ```bash
 pip install -r requirements.txt
 ```
