@@ -99,14 +99,14 @@ cd Cryptrizx-Binance-Bot-Project
 conda env create -f environment.yml   
 ```
 
-**Using Venv:**
+**Using Venv: (Python Version = 3.13.7)**
 ```bash
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
 
-### 3. Install Dependencies (If Venv Path)
+### 3. Install Dependencies (If Created by Venv)
 ```bash
 pip install -r requirements.txt
 ```
