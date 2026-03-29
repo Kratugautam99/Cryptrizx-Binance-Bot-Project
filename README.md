@@ -1,4 +1,4 @@
-# Cryptrizx-Binance-Bot
+# 🔏 Cryptrizx-Binance-Bot
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kratugautam99/Cryptrizx-Binance-Bot-Project/main/images/icon.png" alt="Cryptrizx Icon" width="300"/>
