@@ -159,25 +159,29 @@ Access the docker container:
 Cryptrizx-Binance-Bot/
 │
 ├── CLI_Mode/                 # Command-line interface
-│   ├── client.py            # Binance API client
-│   ├── market_orders.py     # Market order execution
-│   ├── limit_orders.py      # Limit order execution
-│   └── advance/             # Advanced strategies
+│   ├── client.py             # Binance API client
+│   ├── market_orders.py      # Market order execution
+│   ├── limit_orders.py       # Limit order execution
+│   └── advance/              # Advanced strategies
 │       ├── grid_orders.py
 │       ├── oco_orders.py
 │       ├── stop_limit_orders.py
 │       └── twap_orders.py
 │
-├── GUI_Mode/                # Web interface
-│   └── app.py              # Streamlit application
+├── GUI_Mode/                 # Web interface
+│   └── app.py                # Streamlit application
 │
-├── images/                  # Assets
+├── images/                   # Assets
 │   ├── bg.png
 │   └── icon.png
 │
-├── .env                    # Environment variables
-├── bot.log                # Activity logs
-└── requirements.txt       # Dependencies
+├── .env                      # Environment variables
+|
+├── bot.log                   # Activity logs
+|
+├── README.md                 # This File
+|
+└── requirements.txt          # Dependencies
 ```
 
 ---
